@@ -1,3 +1,3 @@
-# WhaleClassification
+# Beer Distribution
 
 Hi
